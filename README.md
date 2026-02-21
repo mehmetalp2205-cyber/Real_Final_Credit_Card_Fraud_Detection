@@ -1,4 +1,4 @@
-Bu repoda, veri bilimindeki en klasik problemlerden biri olan aşırı dengesiz veri setleri (Imbalanced Data) üzerinde çalıştığım makine öğrenmesi projemi bulabilirsiniz.
+Bu raporda, veri bilimindeki en klasik problemlerden biri olan aşırı dengesiz veri setleri (Imbalanced Data) üzerinde çalıştığım makine öğrenmesi projemi bulabilirsiniz.
 
 Projenin Amacı ve Karşılaşılan Zorluk Kullandığım veri setindeki işlemlerin %99.8'i normal, sadece %0.17'si dolandırıcılık (Fraud) işlemiydi. Bu kadar dengesiz bir veride standart bir model eğitirseniz, model kolaya kaçıp her işleme "Normal" diyerek %99.8 doğruluk (accuracy) elde edebilir ama asıl amacı olan dolandırıcıları yakalayamaz. Amacım bu yanılgıyı kırmaktı.
 
